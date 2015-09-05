@@ -1,0 +1,15 @@
+{
+  "name": "bmarwell/webtrees-module-skeleton",
+  "description": "An empty skeleton module for webtrees",
+  "minimum-stability": "stable",
+  "license": "public domain",
+  "authors": [
+    {
+      "name": "Benjamin Marwell",
+      "email": "bmarwell+wt@gmail.com"
+    }
+  ],
+  "require": {
+    "fisharebest/webtrees": "1.7.2"
+  }
+}

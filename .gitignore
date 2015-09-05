@@ -1,0 +1,12 @@
+/.idea/
+/bin/
+/target/
+/vendor/
+/vendor/**/.git
+
+.project
+.buildpath
+.settings
+
+composer.lock
+composer.phar
